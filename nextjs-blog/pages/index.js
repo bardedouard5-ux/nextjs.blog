@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
         <p>[]</p>Hello. My name is Steve A. I am a web developer from Santa Rosa, CA
         <p>
           (А.Л. Зарубин, генеральный директор АО «НК "НЕФТИСА», — ордена благоверного князя Даниила Московского III {' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a> <a href="https://www.patriarchia.ru/article/117396?base=news">
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a><br/> <a href="https://www.patriarchia.ru/article/117396?base=news">
            Пресс-служба Патриарха Московского и всея Руси</a>.)
         </p>
       </section>
